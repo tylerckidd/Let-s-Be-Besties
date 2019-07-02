@@ -8,7 +8,7 @@
 Let's Be Besties : Web Application 
 link: https://tylerckidd.github.io/Let-s-Be-Besties/
 
-![alt text](https://raw.githubusercontent.com/tylerckidd/friendfinder/master/finder.png)
+
 
 
 ## Introduction
